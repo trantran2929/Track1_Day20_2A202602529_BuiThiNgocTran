@@ -25,7 +25,7 @@ Người quan tâm đến cách ăn mặc và phong cách cá nhân, thường x
 
 ## Metrics Pack
 
-**Link Metrics Pack:** [https://drive.google.com/file/d/1qa0haJ7ynehqhoAozr-uMy8_6kvl6EwA/view?usp=sharing](Link Drive)
+**Link Metrics Pack:** [https://drive.google.com/file/d/1qa0haJ7ynehqhoAozr-uMy8_6kvl6EwA/view?usp=sharing] (Link Drive)
 
 Metrics Pack gồm:
 
