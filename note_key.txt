@@ -1,0 +1,15 @@
+CTR(click-through rate): tỷ lệ click vào, quảng cáo có đủ hấp dẫn để người ta bấm vào hay không
+CAC(customer acquisition cost): Chi phí để có 1 người dùng mới
+Time to Value: khoảng thời gian từ lúc mở app đến lúc nhận được giá trị đầu tiên
+Activation Rate: tỷ lệ người dung nhận được giá trị cốt lõi của sản phẩm
+Activation: thời điểm user mới lần đầu nhận được giá trị cốt lõi của sản phẩm.
+Retention: tỷ lệ giữ chân khách hang
+LTV(lifetime value): tổng tiền người dùng mang lại trong suốt thời gian dùng
+Payback Period: thời gian cần đề thu lại số tiền đã bỏ ra để có được một khách hàng mới
+Acquisition là giai đoạn thu hút người dùng mới đến với sản phẩm.
+
+Một công thức rất đáng nhớ:
+CAC = Chi phí acquisition / Số user mới
+Activation Rate = Số user đạt mốc activation / Tổng số user mới × 100%
+và:
+LTV > CAC thường là điều kiện cần để việc thu hút user có khả năng bền vững về kinh tế.
